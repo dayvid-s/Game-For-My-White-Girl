@@ -2,7 +2,9 @@ import time
 import random
 import emoji
 
-# para baixar modulos, faça py -m pip install    packagename
+# obs: as novas importações será a função cabeçalho naqueles loops.
+#e depois deixará tudo em loop, em um laço de repetição de 25 desafios
+
 print('\033[1;35m===\033[m' * 40)
 print('\033[1;35m===\033[m' * 40)
 print('\033[1;35m===\033[m' * 40)
